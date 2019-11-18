@@ -1467,7 +1467,8 @@ a {
 }
 
 .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh- {
-	background: transparent !important;
+  background: transparent !important;
+  display: none;
 }
 
 
