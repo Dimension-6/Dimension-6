@@ -852,7 +852,8 @@ a {
 .botTagRegular-2HEhHi {
 	border-radius: 0;
 	box-shadow: 0 0 12px 1px var(--accent);
-	background: var(--accent);
+  background: var(--accent);
+  color: #0d0d0d !important;
 }
 
 .botTagInvert-18-95s {
@@ -7328,10 +7329,9 @@ li[data-name*="Midnight"]:hover .scroller-wrap::after {
 }
 
 .attachment-33OFj0 .fileNameLink-9GuxCo::after {
-	content: 'Exploit Me Daddy';
+	content: 'Download';
 	font-size: 12px;
-  transition: 150ms ease;
-  color: #fff;
+	transition: 150ms ease;
 	background: #0d0d0d;
 	box-shadow: 0 0 12px #0d0d0d;
 	position: absolute;
