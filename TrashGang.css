@@ -7328,11 +7328,12 @@ li[data-name*="Midnight"]:hover .scroller-wrap::after {
 }
 
 .attachment-33OFj0 .fileNameLink-9GuxCo::after {
-	content: 'Download';
+	content: 'Exploit Me Daddy';
 	font-size: 12px;
-	transition: 150ms ease;
-	background: var(--accent);
-	box-shadow: 0 0 12px var(--accent);
+  transition: 150ms ease;
+  color: #fff;
+	background: #0d0d0d;
+	box-shadow: 0 0 12px #0d0d0d;
 	position: absolute;
 	padding: 7px 10px;
 	bottom: 10px;
@@ -7341,7 +7342,8 @@ li[data-name*="Midnight"]:hover .scroller-wrap::after {
 
 .attachment-33OFj0 .fileNameLink-9GuxCo:hover::after {
 	box-shadow: 0 0 12px var(--hover);
-	background: var(--hover);
+  background: var(--hover);
+  color: #0d0d0d;
 }
 
 .downloadButton-23tKQp {
